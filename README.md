@@ -1,4 +1,7 @@
 # BinaryEncryptionTeacherTool
+
+Here is a link to a video demonstrating what this script is designed to do and how a teacher can use it to simplify their workflow: https://screencast-o-matic.com/watch/c36XXJVtagF
+
 This is a small script that teachers can use in implementing a binary xor encrypting lab with their students. Instructions for students and teacher provided.
 
 The assignment has 2 parts, each part has its own section of the script:
